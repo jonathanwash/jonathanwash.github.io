@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Into the Mind of Nothing</title>
+    <link>https://jonathanwash.github.io/</link>
+    <description>Recent content on Into the Mind of Nothing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, all rights reserved.</copyright>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jonathanwash.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://jonathanwash.github.io/about/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonathanwash.github.io/about/</guid>
+      <description>Who am I? Hello, I&amp;rsquo;m Jonathan Wash. I&amp;rsquo;m a support engineer for a construction company by day and a technology enthusiast by night.
+I&amp;rsquo;ll be experimenting my experiences on this blog and trying to document everything I do so that other people can hopefully find some help with things&amp;hellip; if not only for me to remind me how and why the hell I did things.
+The Tech Behind the Blog This blog is running on GitHub Pages using Hugo as the static generator:</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://jonathanwash.github.io/post/hello-world/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonathanwash.github.io/post/hello-world/</guid>
+      <description>Welcome This is my first post and hope it&amp;rsquo;s a good test.</description>
+    </item>
+    
+  </channel>
+</rss>
